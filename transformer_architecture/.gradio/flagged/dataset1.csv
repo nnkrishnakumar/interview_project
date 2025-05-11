@@ -1,0 +1,2 @@
+Prompt,Generation Strategy,Top-k,Temperature,Max New Tokens,Generated Text,timestamp
+Once upon a time,sampling,10,1,1000,,2025-05-11 20:20:48.979102
