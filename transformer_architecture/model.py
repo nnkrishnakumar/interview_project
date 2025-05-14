@@ -30,3 +30,4 @@ class TransformerDecoder(nn.Module):
         x = self.ln(x)
         logits = self.fc_out(x.transpose(0, 1))
         return logits
+        
